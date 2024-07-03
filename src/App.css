@@ -1,0 +1,16 @@
+:root {
+  --bckg-color: rgba(255, 255, 255, 0.85);
+  --color-hover: #dfdfdf;
+}
+
+.app {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.leaflet-container {
+  height: 100vh;
+}
